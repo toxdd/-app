@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">天气</string>
+    <string name="cancel_label">取消</string>
+    <string name="store_label">存储</string>
+    <string name="license_title">凭证</string>
+    <string name="libraries_title">库和资源</string>
+    <string name="developer_info_title">开发者信息</string>
+    <string name="design_api_title">设计和API</string>
+    <string name="application_info_title">应用信息</string>
+    <string name="application_info_text">
+        <![CDATA[
+            <p>
+            <b>天气APP</b>
+            <br/>
+            Version: %1$s
+            <br/>
+            这个应用在此开源 <br/><a href="https://github.com/bkhezry/weather">https://github.com/bkhezry/weather</a></p>
+        ]]>
+    </string>
+    <string name="current_label">当前</string>
+    <string name="humidity_label">湿度</string>
+    <string name="wind_label">风速</string>
+    <string name="next_4_days_hourly">近4天/每小时</string>
+    <string name="next_15_days_label">近15天</string>
+    <string name="search_for_a_city_label">搜索城市</string>
+    <string name="zero_label">0%d</string>
+    <string name="wind_unit_label">%.0f 千米/小时</string>
+    <string name="openweathermap_api_key_label">OpenWeatherMap API Key</string>
+    <string name="api_key_description">使用此APP请提供API密钥，这是免费的。请打开下方链接注册用户。之后即可获取API密钥</string>
+    <string name="get_api_key_label">获取到API密钥</string>
+    <string name="api_key_label">API Key</string>
+    <string name="search_label">搜索</string>
+    <string name="no_internet_message">请检查网络连接</string>
+    <string name="no_city_found_message">该城市未找到</string>
+    <string name="invalid_api_key_message">API密钥不可用。敬请期待</string>
+    <string name="network_exception_message">网络出错</string>
+    <string name="retry_label">重试</string>
+    <string name="ok_label">OK</string>
+    <string name="night_mode_label">暗黑模式</string>
+</resources>
